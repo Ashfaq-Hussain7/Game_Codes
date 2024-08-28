@@ -3,3 +3,4 @@ This repository consists of simple game codes for improving my experience in cod
 
 Following are the coded games:
 1.Quiz Game
+2.Number Guesser Game
