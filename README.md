@@ -6,3 +6,5 @@ Following are the coded games:
 1.Quiz Game
 
 2.Number Guesser Game
+
+3.Rock, Paper and Scissors
